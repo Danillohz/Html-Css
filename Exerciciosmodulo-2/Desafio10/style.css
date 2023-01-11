@@ -30,7 +30,7 @@ header {
 }
 
 header>h1 {
-    font-size: 29px;
+    font-size: 26px;
     color: white;
     text-align: center;
     margin: 0px;
@@ -40,11 +40,11 @@ header>h1 {
 }
 
 header>p {
-    font-size: 14px;
+    font-size: 13px;
     color: rgb(224, 224, 224);
     text-align: center;
     margin: 0px;
-    padding: 25px 10px 25px 0px;
+    padding: 20px 10px 25px 0px;
     text-shadow: 1px 1px 1px black;
     
 
@@ -62,7 +62,7 @@ nav>a:hover{
 main {
     background-color: white;
     min-width: 320px;
-    max-width: 920px;
+    max-width: 850px;
     margin: auto;
     height: 100%;
     box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.596);
